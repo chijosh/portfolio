@@ -130,10 +130,6 @@ footer ul li a {
   color: #c1c6ce;
 }
 
-svg {
-  width: 40%;
-}
-
 footer p {
   font-size: 0.8em;
 }
@@ -184,5 +180,9 @@ footer p {
     max-width: 960px;
     margin: 0 auto;
     padding: 2em 0;
+  }
+
+  footer ul li {
+    margin: 0 108px;
   }
 }
