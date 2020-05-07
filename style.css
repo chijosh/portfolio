@@ -118,6 +118,7 @@ footer ul {
   text-align: center;
   display: flex;
   flex-direction: row;
+  justify-content: space-around;
 }
 
 footer ul li {
@@ -180,9 +181,6 @@ footer p {
     max-width: 960px;
     margin: 0 auto;
     padding: 2em 0;
-  }
-
-  footer ul li {
-    margin: 0 108px;
+    justify-content: space-around;
   }
 }
